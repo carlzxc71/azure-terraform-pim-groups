@@ -1,2 +1,4 @@
-# azure-terraform-pim-groups
-This repository contains some demo code for configuring PIM with Terraform using Entra Groups
+## Read about this repo
+
+This repository contains source code to deploy the solution talked about on my website showcasing Terraform and Azure PIM with groups.
+You can find the post [here](TBA)
